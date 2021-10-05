@@ -9,3 +9,12 @@
  #### I have used Yellow-brick Library which i explored on previous assignment.
  #### Furthermore i have used 3-D plot for 3 PCA components.
  #### Additionally applied tSNE on dataset to check ouput, plotted tSNE output.
+
+## Conclusions:
+
+-- From PCA we can verify that the 3 clusters formed for each type is near to original data-frame.
+-- t-SNE should be used for a Non-Linear High Dimensional Model to verify its performance compared to PCA.
+
+## Note:
+#### For this assignment i have attached jupyter notebook file and 2 csv files having clusters namely:
+-- PCAHdfStd, PCAKdfStd
