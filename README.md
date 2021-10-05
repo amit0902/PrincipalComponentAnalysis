@@ -1,8 +1,8 @@
 # PrincipalComponentAnalysis
 ## This has PCA model
- #### -- I have approached this data-set with Standardization of Data-Frame.
- #### -- Post Transformation, i have applied  PCA (Principal Component Analysis) to reduce dimension to get better analysis.
- #### -- After PCA on Standardized Data, then applied different clustering method as mentioned in Problem Statement:
+ #### I have approached this data-set with Standardization of Data-Frame.
+ #### Post Transformation, i have applied  PCA (Principal Component Analysis) to reduce dimension to get better analysis.
+ #### After PCA on Standardized Data, then applied different clustering method as mentioned in Problem Statement:
          -- H-Cluster
          -- K-Means 
  #### For every clustering method Silhouette Score was a metric to verify Cluster Number.
